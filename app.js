@@ -10,7 +10,7 @@ function exibirTextoNaTela(tag, texto) {
     responsiveVoice.speak(texto, 'Brazilian Portuguese Female', {rate:1.2})
 }
 exibirTextoNaTela ('h1','Quantos cogumelos Teemo escondeu pelo mapa?');
-exibirTextoNaTela ('p','1, 2, 3, 4... até 10.000 cogumelos podem estar invisíveis por aí!');
+exibirTextoNaTela ('p','1, 2, 3, 4... até 10.000 cogumelos podem estar escondidos por aí!');
 function verificarChute() {
     let chute = document.querySelector('input').value;
     if (chute == numeroSecreto) {
