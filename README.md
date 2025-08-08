@@ -1,9 +1,9 @@
-
-"One, two, three, four!"
----
 <p align="center">
   <img src="teemogifbee.gif" alt="Welcome GIF" />
 </p>
+
+"One, two, three, four!"
+---
 
 ### 🕹️About the Game
 This is a simple number guessing game with a twist — wrapped in the League of Legends Teemo vibe!
