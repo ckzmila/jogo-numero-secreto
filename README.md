@@ -5,7 +5,7 @@
 "One, two, three, four!"
 ---
 This is a simple number guessing game with a twist — wrapped in the League of Legends Teemo vibe!
-Test your luck! :))
+Test your luck!
 
 ### How to Play
 1. The system secretly picks a number.
